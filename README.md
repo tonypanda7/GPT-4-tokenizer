@@ -29,4 +29,3 @@ No external APIs, no model downloads, and no additional setup required.
 
 This project is intended for learning, experimentation, and custom NLP or LLM preprocessing workflows.
 
-If you want, I can make it even shorter (3–4 lines) or rewrite it to sound more casual / student-project style.
